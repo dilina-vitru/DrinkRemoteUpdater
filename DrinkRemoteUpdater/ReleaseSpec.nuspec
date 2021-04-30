@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>DrinkRemoteUpdater</id>
+    <version>0.0.0</version>
+    <title>Drink Remote Updater</title>
+    <authors>DG</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+  
+  <files>
+	<file src="bin\Release\**" target="lib\net45"/>
+  </files>
+</package>
